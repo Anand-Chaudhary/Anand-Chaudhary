@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://twitter.com/anandc34" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anandc34" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/anand-chaudhary-b3a92b287" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anand-chaudhary-b3a92b287" height="30" width="40" /></a>
-<a href="https://fb.com/aakash chaudhary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aakash chaudhary" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100075967090739" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aakash chaudhary" height="30" width="40" /></a>
 <a href="https://instagram.com/aakash.cpp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aakash.cpp" height="30" width="40" /></a>
 </p>
 
