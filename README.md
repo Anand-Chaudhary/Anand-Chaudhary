@@ -49,12 +49,6 @@
 * Built with **Next.js + AI APIs**
 * Focus: **performance + scalability**
 
-### 📌 ATS Resume Analyzer
-
-* Matches resume with job descriptions
-* Scores + AI-powered improvements
-* Focus: **real-world product use case**
-
 ### 📌 Job Management System (Full Stack)
 
 * Vendor + dashboard system
@@ -104,10 +98,3 @@
 > Not just building apps — but making them **production-ready**
 
 ---
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anand-chaudhary&show_icons=true&locale=en&layout=compact" alt="anand-chaudhary" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anand-chaudhary&show_icons=true&locale=en" alt="anand-chaudhary" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anand-chaudhary&" alt="anand-chaudhary" /></p>
